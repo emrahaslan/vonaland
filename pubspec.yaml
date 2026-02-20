@@ -1,0 +1,26 @@
+name: vonaland
+description: A simple Flutter app created by the assistant.
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/splash.jpg
+    - assets/images/app_icon.png
+
+flutter_launcher_icons:
+  ios: true
+  android: true
+  image_path: assets/images/app_icon.png
