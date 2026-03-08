@@ -1,6 +1,6 @@
 {
-    "name": "vonaland",
-    "short_name": "vonaland",
+    "name": "Vonaland",
+    "short_name": "Vonaland",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
